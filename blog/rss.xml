@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Miranda Eng Blog</title>
+        <link>https://mirghaeng.github.io/blog</link>
+        <description>Miranda Eng Blog</description>
+        <lastBuildDate>Sun, 05 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[A Start!]]></title>
+            <link>https://mirghaeng.github.io/blog/a-start</link>
+            <guid>a-start</guid>
+            <pubDate>Sun, 05 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Just bought replacement road cycling cleats and some yummy treats for a long bike ride! Lovely day. Now, trying my best to get this portfolio setup.]]></description>
+            <content:encoded><![CDATA[<p>Just bought replacement road cycling cleats and some yummy treats for a long bike ride! Lovely day. Now, trying my best to get this portfolio setup.</p><p><img loading="lazy" alt="cleat-and-snacks" src="/assets/images/20220605_184354-1dc2cc835806701620ed1a6fc87dc1a9.jpg" width="3024" height="3024" class="img_ev3q"></p>]]></content:encoded>
+            <category>docusaurus</category>
+            <category>biking</category>
+        </item>
+    </channel>
+</rss>

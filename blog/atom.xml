@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mirghaeng.github.io/blog</id>
+    <title>Miranda Eng Blog</title>
+    <updated>2022-06-05T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mirghaeng.github.io/blog"/>
+    <subtitle>Miranda Eng Blog</subtitle>
+    <icon>https://mirghaeng.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[A Start!]]></title>
+        <id>a-start</id>
+        <link href="https://mirghaeng.github.io/blog/a-start"/>
+        <updated>2022-06-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Just bought replacement road cycling cleats and some yummy treats for a long bike ride! Lovely day. Now, trying my best to get this portfolio setup.]]></summary>
+        <content type="html"><![CDATA[<p>Just bought replacement road cycling cleats and some yummy treats for a long bike ride! Lovely day. Now, trying my best to get this portfolio setup.</p><p><img loading="lazy" alt="cleat-and-snacks" src="/assets/images/20220605_184354-1dc2cc835806701620ed1a6fc87dc1a9.jpg" width="3024" height="3024" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Miranda Eng</name>
+            <uri>https://github.com/mirghaeng</uri>
+        </author>
+        <category label="docusaurus" term="docusaurus"/>
+        <category label="biking" term="biking"/>
+    </entry>
+</feed>
